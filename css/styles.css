@@ -114,10 +114,8 @@ a {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
   background: #F4F4FD;
 }
-
 
 .ourteam-title {
   font-weight: 500;
@@ -125,6 +123,16 @@ a {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.ourteam-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .wawd-title {
@@ -149,17 +157,7 @@ a {
   color: #2e2f42;
 }
 
-.ourteam {
-  background-color: #f4f4fd;
-}
 
-.ourteam-list {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
 .about-descr {
   font-size: 16px;
   line-height: 1.5;
