@@ -109,11 +109,6 @@ a {
 }
 
 .ourteam {
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
   background: #F4F4FD;
 }
 
@@ -125,15 +120,14 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2E2F42;
-  
 }
 
-.ourteam-list {
+.ourteam-list-item {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  background-color: #FFFFFF
 }
 
 .wawd-title {
@@ -142,7 +136,7 @@ a {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: #FFFFFF;
   text-align: center;
 }
 
@@ -210,16 +204,20 @@ a {
 }
 
 .members {
+  font-style: normal:
+  font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
-  color: #2e2f42;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
 }
 
 .job {
+  font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
-  color: #434455;
+  line-height: 24px;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .portfolio-list-item {
