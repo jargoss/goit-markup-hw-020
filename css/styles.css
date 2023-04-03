@@ -42,9 +42,9 @@ a {
 }
 
 .btn:hover,
-.btn:focus {;
+.btn:focus {
   color: #FFFFFF;
-  background-color: #404BBF
+  background-color: #404BBF;
 }
 
 /* Header */
@@ -108,18 +108,18 @@ a {
   background-color: #2e2f42;
 }
 
-.ourteam {
+.ourteam {   
   background: #F4F4FD;
 }
 
 .ourteam-title {
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2E2F42;
+font-weight: 500;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
 }
 
 .ourteam-list-item {
@@ -147,6 +147,9 @@ a {
   color: #2e2f42;
 }
 
+.about-title {
+  visibility: hidden;
+}
 
 .about-descr {
   font-size: 16px;
@@ -200,7 +203,7 @@ a {
 }
 
 .members {
-  font-style: normal:
+  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
